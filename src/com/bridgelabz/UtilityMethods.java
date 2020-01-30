@@ -4,6 +4,11 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 
+/***
+ * @author Sachin Barpete
+ * @date 30/01/2020
+ * @purpose writeString(), readString() and isSameFile() method Implementation
+ */
 public class UtilityMethods {
     public static void main(String[] args) {
         writeToFile();

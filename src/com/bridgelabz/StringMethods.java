@@ -2,6 +2,11 @@ package com.bridgelabz;
 
 import java.util.stream.Collectors;
 
+/***
+ * @author Sachin Barpete
+ * @date 30/01/2020
+ * @purpose Implementation of java11 String class methods
+ */
 public class StringMethods {
 
     public static void main(String[] args) {
