@@ -1,0 +1,4 @@
+This method will read all contents from a file into a string,
+decoding from bytes to characters using the UTF-8 charset.
+The method also ensures that the file is closed when all content
+has been read or an I/O error, or other runtime exception, is thrown.
